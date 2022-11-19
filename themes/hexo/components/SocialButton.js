@@ -28,7 +28,6 @@ const SocialButton = () => {
         <i className='transform hover:scale-125 duration-150 fas fa-envelope dark:hover:text-indigo-400 hover:text-indigo-600'/>
       </a>}
       <a target='_blank' rel='noreferrer' title={'RSS'} href={'/feed'} >
-        <i className='transform hover:scale-125 duration-150 fas fa-rss dark:hover:text-indigo-400 hover:text-indigo-600'/>
       </a>
     </div>
   </div>
